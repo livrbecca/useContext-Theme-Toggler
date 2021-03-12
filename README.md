@@ -1,3 +1,11 @@
+# MINITURE PROJECT TO SHOW USE OF 
+- React Hook: ```useContext()```, ```useState()``` and ```React.createContext()``` to toggle theme color of the App componenet 
+- Advanced CSS effect to mimic a keyboard click
+
+![toggle](https://user-images.githubusercontent.com/69110329/110995487-575aa200-8372-11eb-8294-dd9e25d3c866.gif)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
